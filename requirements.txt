@@ -1,0 +1,10 @@
+dash==2.14.0
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-bootstrap-components==1.5.0
+dash-table==5.0.0
+plotly==5.17.0
+pandas==0.25.1
+gbfs-client==0.1.8
+flask==2.1.3
+urllib3==1.26.10
